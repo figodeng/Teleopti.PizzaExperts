@@ -1,0 +1,13 @@
+E:\WorkSpace\Teleopti.PizzaExperts\Teleopti.PizzaExperts.Repositories\bin\Debug\Teleopti.PizzaExperts.Repositories.dll
+E:\WorkSpace\Teleopti.PizzaExperts\Teleopti.PizzaExperts.Repositories\bin\Debug\Teleopti.PizzaExperts.Repositories.pdb
+E:\WorkSpace\Teleopti.PizzaExperts\Teleopti.PizzaExperts.Repositories\bin\Debug\Teleopti.PizzaExperts.Framework.dll
+E:\WorkSpace\Teleopti.PizzaExperts\Teleopti.PizzaExperts.Repositories\bin\Debug\Autofac.dll
+E:\WorkSpace\Teleopti.PizzaExperts\Teleopti.PizzaExperts.Repositories\bin\Debug\Newtonsoft.Json.dll
+E:\WorkSpace\Teleopti.PizzaExperts\Teleopti.PizzaExperts.Repositories\bin\Debug\Teleopti.PizzaExperts.Framework.pdb
+E:\WorkSpace\Teleopti.PizzaExperts\Teleopti.PizzaExperts.Repositories\bin\Debug\Autofac.xml
+E:\WorkSpace\Teleopti.PizzaExperts\Teleopti.PizzaExperts.Repositories\bin\Debug\Newtonsoft.Json.xml
+E:\WorkSpace\Teleopti.PizzaExperts\Teleopti.PizzaExperts.Repositories\obj\Debug\Teleopti.PizzaExperts.Repositories.csprojAssemblyReference.cache
+E:\WorkSpace\Teleopti.PizzaExperts\Teleopti.PizzaExperts.Repositories\obj\Debug\Teleopti.PizzaExperts.Repositories.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Teleopti.PizzaExperts\Teleopti.PizzaExperts.Repositories\obj\Debug\Teleopti.PizzaExperts.Repositories.csproj.CopyComplete
+E:\WorkSpace\Teleopti.PizzaExperts\Teleopti.PizzaExperts.Repositories\obj\Debug\Teleopti.PizzaExperts.Repositories.dll
+E:\WorkSpace\Teleopti.PizzaExperts\Teleopti.PizzaExperts.Repositories\obj\Debug\Teleopti.PizzaExperts.Repositories.pdb
